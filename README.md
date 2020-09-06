@@ -3,9 +3,9 @@
 How to run?  
 
 In the backend folder:  
-1. run npm install  
-2. run npm start  
+1. npm install  
+2. npm start  
 
 In the client folder:  
-1. run npm install  
-2. run npm start  
+1. npm install  
+2. npm start  
