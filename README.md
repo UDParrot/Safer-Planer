@@ -1,11 +1,7 @@
 # Safer-Planer
 
-后端源码：https://github.com/UDParrot/Backend  
-In the backend folder:  
-1. npm install  
-2. npm start  
+**The google map api for this project is disabled**  
 
-前端源码： https://github.com/UDParrot/Frontend  
-In the client folder:   
-1. npm install  
-2. npm start  
+A project for UNICODE SC+ HACKATHON
+
+![](preview.jpg)
